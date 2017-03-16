@@ -1,0 +1,146 @@
+@import url("reset.css");
+.center {
+  margin: 0 auto;
+}
+.main {
+  margin-top: -20px;
+  width: 100%;
+  height: 850px;
+  background: #32a7b8;
+}
+.main .Mailblast {
+  text-decoration: none;
+  font-size: 15px;
+  color: white;
+  position: absolute;
+  top: 35px;
+  left: 22px;
+}
+.main .manya {
+  position: absolute;
+  right: 32px;
+  top: 35px;
+}
+.main .manya a {
+  text-decoration: none;
+  font-size: 15px;
+  color: white;
+  margin-left: 17px;
+}
+.main h1 {
+  padding-top: 150px;
+  color: white;
+  font-size: 52px;
+}
+.main h4 {
+  color: white;
+  font-size: 22px;
+}
+form {
+  text-align: center;
+  margin-top: 44px;
+}
+form .btn {
+  width: 280px;
+  height: 59px;
+  background: #0a6875;
+}
+form .btn a {
+  color: white;
+}
+form .btn a:hover {
+  text-underline: 1px solid white;
+  color: white;
+}
+.news {
+  position: fixed;
+  top: 645px;
+  right: 0px;
+}
+.airport {
+  position: absolute;
+  left: 240px;
+  top: 415px;
+}
+.main2 {
+  width: 100%;
+  height: 456px;
+  background: none;
+}
+.main2 h1 {
+  font-size: 55px;
+  font-weight: bolder;
+  margin-top: 113px;
+}
+.main2 p {
+  font-size: 22px;
+}
+.main2 .under {
+  text-align: center;
+}
+.main2 .under a {
+  color: #32a7b8;
+}
+.main2 .under a:hover {
+  text-underline: 1px solid #32a7b8;
+}
+.main2 .Features {
+  font-size: 44px;
+  font-weight: bolder;
+  color: black;
+  text-decoration: none;
+}
+span {
+  display: block;
+  margin-bottom: -11px;
+  font-size: 22px;
+}
+.container {
+  margin-top: -170px;
+}
+.blue_line {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.button1 {
+  width: 225px;
+  height: 50px;
+  background: none;
+  text-align: center;
+  margin: 0 auto;
+}
+.icon1 {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 26px;
+}
+.icon2 {
+  margin-bottom: 32px;
+  text-align: center;
+}
+.footer {
+  width: 100%;
+  height: 172px;
+  background: #191e2b;
+  margin-top: 172px;
+}
+.footer p {
+  font-size: 20px;
+  color: white;
+  padding-top: 35px;
+}
+.footer a {
+  display: block;
+  font-size: 15px;
+  margin-top: 15px;
+}
+.footer a:hover {
+  color: white;
+}
+.fire {
+  margin-right: 3px;
+}
+.col-md-5 {
+  margin-top: 150px;
+}
